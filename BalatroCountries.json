@@ -1,0 +1,11 @@
+{
+    "id": "countries",
+    "name": "Country Jokers",
+    "author": [
+        "emmy the gremlin",
+        "DigitalDetective47"
+    ],
+    "description": "Adds a Joker for all 193 UN members",
+    "prefix": "flag",
+    "main_file": "main.lua"
+}
